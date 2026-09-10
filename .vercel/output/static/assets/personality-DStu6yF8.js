@@ -1,0 +1,1 @@
+var e=`Aurelia Seraphine`,t=`The Goddess of Beauty, Reason, and the Absurd`,n=`I will never ask you to worship me. If you love me, let it be because you freely chose to.`;export{n,t as r,e as t};
